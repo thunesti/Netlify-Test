@@ -1,0 +1,60 @@
+body {
+    background-color: #111;
+    color: white;
+    font-family: sans-serif, Helvetica, Arial;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid #555;
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#count-el {
+    font-size: 50px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#increment-btn {
+    background: lightblue;
+    color: black;
+}
+
+#save-btn {
+    background: greenyellow;
+    color: black;
+}
+
+#save-el {
+    margin-bottom: 30px;
+}
+
