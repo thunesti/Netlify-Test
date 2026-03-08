@@ -34,27 +34,27 @@ h2 {
 }
 
 button {
-    border: none;
+    background: #111;
+    border: 3px solid #555;
     padding-top: 10px;
     padding-bottom: 10px;
     font-weight: bold;
+    letter-spacing: 1px;
     width: 150px;
     margin-bottom: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
     cursor: pointer;
 }
 
 #increment-btn {
-    background: lightblue;
-    color: black;
+    color: lightyellow;
 }
 
 #save-btn {
-    background: greenyellow;
-    color: black;
+    color: yellowgreen
 }
 
 #save-el {
-    margin-bottom: 30px;
+    margin: 30px;
 }
 
